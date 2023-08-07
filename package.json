@@ -1,0 +1,13 @@
+{
+  "name": "numbertower",
+  "description": "",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx numbertower.ts"
+  },
+  "keywords": [],
+  "author": "Felix De Montis",
+  "license": "ISC"
+}
